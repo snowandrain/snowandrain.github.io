@@ -1,7 +1,7 @@
-## Welcome to LightSea's Site
+## 2019.3.1
 
-In here, you can know something messages about lighsea.
+  我平坐在床上，耳朵听着正在播放略带忧伤的歌曲，双眼望着散发着淡淡光芒的电脑屏幕，双手无力的放在触摸板上，思绪止不住的飘向了过去。
 
-### Support or Contact
+### 联系方式
 
-lansea150@gmail.com
+<lansea150@gmail.com>
